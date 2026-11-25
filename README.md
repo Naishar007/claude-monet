@@ -31,6 +31,5 @@
 
 
 \## Опубликованный сайт
-
-\*(Ссылка появится здесь после настройки GitHub Pages)\*
-
+[
+](https://naishar007.github.io/claude-monet/)
